@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="letCodeAutomationPratice">
+    <test verbose="1" preserve-order="true" name="TestCase1">
+        <classes>
+            <class name="inputTestCase">
+            </class>
+        </classes>
+    </test>
+    <test verbose="1" preserve-order="true" name="TestCase2">
+        <classes>
+            <class name="ButtonTestCase">
+            </class>
+        </classes>
+    </test>
+    <test verbose="1" preserve-order="true" name="TestCase3">
+        <classes>
+            <class name="SelectTestCase">
+            </class>
+        </classes>
+    </test>
+    <test verbose="1" preserve-order="true" name="TestCase4">
+        <classes>
+            <class name="AlertTestCase">
+            </class>
+        </classes>
+    </test>
+    <test verbose="1" preserve-order="true" name="TestCase5">
+        <classes>
+            <class name="FrameTestCase">
+            </class>
+        </classes>
+    </test>
+    <test verbose="1" preserve-order="true" name="TestCase6">
+        <classes>
+            <class name="RadioTestCase">
+            </class>
+        </classes>
+    </test>
+    <test verbose="1" preserve-order="true" name="TestCase7">
+        <classes>
+            <class name="WindowsTestCase1">
+            </class>
+        </classes>
+    </test>
+    <test verbose="1" preserve-order="true" name="TestCase8">
+        <classes>
+            <class name="WindowsTestCase1">
+            </class>
+        </classes>
+    </test>
+    <test verbose="1" preserve-order="true" name="TestCase9">
+        <classes>
+            <class name="ElementsTestCase">
+            </class>
+        </classes>
+    </test>
+    <test verbose="1" preserve-order="true" name="TestCase10">
+        <classes>
+            <class name="DragTestCase">
+            </class>
+        </classes>
+    </test>
+    <test verbose="1" preserve-order="true" name="TestCase11">
+        <classes>
+            <class name="DropTestCase">
+            </class>
+        </classes>
+    </test>
+    <test verbose="1" preserve-order="true" name="TestCase12">
+        <classes>
+            <class name="SortTestCase">
+            </class>
+        </classes>
+    </test>
+    <test verbose="1" preserve-order="true" name="TestCase13">
+        <classes>
+            <class name="MultiSelectTestCase">
+            </class>
+        </classes>
+    </test>
+    <test verbose="1" preserve-order="true" name="TestCase14">
+        <classes>
+            <class name="SliderTestCase">
+            </class>
+        </classes>
+    </test>
+    <test verbose="1" preserve-order="true" name="TestCase15">
+        <classes>
+            <class name="TableTestCase">
+            </class>
+        </classes>
+    </test>
+    <test verbose="1" preserve-order="true" name="TestCase16">
+        <classes>
+            <class name="CalendarTestCase">
+            </class>
+        </classes>
+    </test>
+    <test verbose="1" preserve-order="true" name="TestCase17">
+        <classes>
+            <class name="WaitTestCase">
+            </class>
+        </classes>
+    </test>
+    <test verbose="1" preserve-order="true" name="TestCase18">
+        <classes>
+            <class name="FormTestCase">
+            </class>
+        </classes>
+    </test>
+    <test verbose="1" preserve-order="true" name="TestCase19">
+        <classes>
+            <class name="UploadDownloadTestCase">
+            </class>
+        </classes>
+    </test>
+</suite>
